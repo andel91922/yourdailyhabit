@@ -1,0 +1,5 @@
+{
+  "name": "習慣追蹤器",
+  "description": "Helps users track 2-5 daily habits with single-click check-ins, displaying streaks and completion rates. It provides a concise weekly summary report to help users consistently build habits.",
+  "requestFramePermissions": []
+}
